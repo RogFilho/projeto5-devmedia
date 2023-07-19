@@ -1,1 +1,1 @@
-# projeto5-devmedia
+# Projeto passo a passo: Website para um provedor de hospedagem
